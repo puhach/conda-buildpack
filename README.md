@@ -26,7 +26,7 @@ Usage
 You can add it to upcoming builds of an existing application:
 
 ```console
-$ heroku buildpacks:set https://github.com/trib3/conda-buildpack.git -a [app-name]
+$ heroku buildpacks:set https://github.com/puhach/conda-buildpack.git -a [app-name]
 ```
 
 
